@@ -7,3 +7,7 @@
 +	run()抓前10页
 +	run(x)抓取前x页
 +	run(x,y)抓取从x到y页，终止页码1500
+
+# Git clone 以后，用maven导入
+* eclipse导入maven项目方法：
+* http://blog.csdn.net/w12345_ww/article/details/52094756

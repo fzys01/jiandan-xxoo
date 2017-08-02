@@ -11,3 +11,11 @@
 # Git clone 以后，用maven导入
 * eclipse导入maven项目方法：
 * http://blog.csdn.net/w12345_ww/article/details/52094756
+
+# Java Crawler ,spide girl from internet, very simple
+* Without any crawler frame, friendly to newbie
+* Could set your own crawler choice
+* with function run()to cra 10pages
+* and run(i) to craw i pages
+* with run(i,j) to craw from page i to page j;
+* Good Luck! Study everyday
